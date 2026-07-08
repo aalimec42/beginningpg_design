@@ -1,7 +1,4 @@
-..html 
-   
 
-      <!DOCTYPE>
 <html>
     <head>
         <title>Events</title>
